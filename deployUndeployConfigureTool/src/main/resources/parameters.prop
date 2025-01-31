@@ -1,0 +1,8 @@
+#
+#Tue Sep 24 14:01:33 UTC 2024
+APIProxyURL=
+CIDesignTime=
+deployundeployconfigusercred=
+Query_4=Id\='${property.Id}'&Version\='active'
+Query_5=mode\=${property.newAPIAction}
+deployundeployapiproxycred=
